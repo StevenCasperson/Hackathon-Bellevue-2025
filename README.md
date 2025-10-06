@@ -1,3 +1,5 @@
+# This project was created by using Microsofts CoPilot.
+
 # Human-in-the-Loop Data Analysis Pipeline 🤖👥
 
 **Hackathon Project - October 4th, 2025**  
